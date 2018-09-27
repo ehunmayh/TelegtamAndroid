@@ -669,3 +669,4 @@ LOCAL_SRC_FILES     += \
 include $(BUILD_SHARED_LIBRARY)
 
 $(call import-module,android/cpufeatures)
+LOCAL_SHORT_COMMANDS :=true

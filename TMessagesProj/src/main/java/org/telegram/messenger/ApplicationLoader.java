@@ -21,6 +21,7 @@ import android.content.pm.ApplicationInfo;
 import android.content.res.Configuration;
 import android.os.Handler;
 import android.os.PowerManager;
+import android.support.multidex.MultiDexApplication;
 import android.text.TextUtils;
 
 import com.google.android.gms.common.ConnectionResult;
