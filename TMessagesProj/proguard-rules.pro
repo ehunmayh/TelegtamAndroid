@@ -14,7 +14,6 @@
 -dontwarn com.google.common.cache.**
 -dontwarn com.google.common.primitives.**
 -dontwarn com.googlecode.mp4parser.**
--dontwarn class java.awt.image.**
 # Use -keep to explicitly keep any other classes shrinking would remove
 -dontoptimize
 -dontobfuscate
