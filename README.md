@@ -1,5 +1,6 @@
 ## Telegram messenger for Android
 
+Telegram源码可以运行，前一段时间需要将其集成，并在此基础上进行二次开发红包等功能，走了不少弯路，传上来供大家参考可以在Application中设置代理，希望对大家有所帮助，记得给点赞给个星星哈
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
 This repo contains the official source code for [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
